@@ -1,5 +1,5 @@
 # :bear: kangCoder
-##### -kang Hyunsu
+##### -Kang Hyunsu
 
 ##### -Konkuk Univ. CSE
 
