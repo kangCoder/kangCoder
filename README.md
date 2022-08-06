@@ -7,7 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkangCoder&count_bg=%236F72E8&title_bg=%23B43CE0&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![kangCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangCoder&show_icons=true&theme=radical)
+![kangCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangCoder&show_icons=true&theme=dracula)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=bitgustn)](https://solved.ac/bitgustn)
 
 ---
