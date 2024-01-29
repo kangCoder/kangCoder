@@ -1,6 +1,7 @@
 # Hyunsu Kang (KangCoder)
 
 ## Profile
+- Daou (2024.02~)
 - Bachelor of Computer Science Engineering, Konkuk University (2018.03~2024.02)
 - Server developer, Konkuk Univ. Student Dev 1st(건국대학교 공식 학생개발팀 1기) (2022.07)
 
